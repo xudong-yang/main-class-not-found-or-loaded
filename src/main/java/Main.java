@@ -1,7 +1,7 @@
 import com.github.tomakehurst.wiremock.WireMockServer;
 import com.github.tomakehurst.wiremock.core.WireMockConfiguration;
 
-public class Application {
+public class Main {
 
     public static final int PORT = 8002;
     public static final String MOCK_DIR = "src/main/resources/mock";
